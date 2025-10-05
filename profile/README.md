@@ -1,5 +1,5 @@
 ## Hi there 👋
-So we're the best development team on the WHOLE wide earth ;). anyways, just cool code to use :D
+Lol, just some friends i put together into a org :D
 <!--
 
 **Here are some ideas to get you started:**
