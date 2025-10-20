@@ -10,3 +10,9 @@ Lol, just some friends i put together into a org :D
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+### Projects!
+Some projects we are working on include: 
+
+#### [Our awesome url shortener](https://url.austinsdk.me) | [Github](https://github.com/AustinSDK/url-shortener)
+#### [Authly](https://auth.austinsdk.me) | [GitHub](https://github.com/AustinSDK/Authincation-service)
