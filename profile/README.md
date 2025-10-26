@@ -14,7 +14,8 @@ Lol, just some friends i put together into a org :D
 ### Projects!
 Some projects we are working on include: 
 
-| Project | Github |
+| Project | GitHub |
 | --- | --- |
 | [Our awesome URL shortener](https://url.austinsdk.me) | [Github](https://github.com/AustinSDK/url-shortener) |
 | [Authly](https://auth.austinsdk.me) | [GitHub](https://github.com/AustinSDK/Authincation-service) |
+| [mycodebaseisbrokenandidontknowwhattodootherthentosayilovecss.codes](mycodebaseisbrokenandidontknowwhattodootherthentosayilovecss.codes) | [GitHub](https://github.com/AustinSDK/mycodebaseisbrokenandidontknowwhattodootherthentosayilovecss.codes)
