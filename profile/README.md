@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/header.png" />
+</p>
+
 ## Hi there 👋
 Lol, just some friends i put together into a org :D
 <!--
