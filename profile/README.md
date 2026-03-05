@@ -1,3 +1,16 @@
+<!--
+Nǐ hǎo
+Hola
+Hello
+Namaste
+As-salaam-alaikum
+Bonjour
+Privet
+Olá
+Konnichiwa
+Guten Tag
+-->
+
 <p align="center">
   <img src="/header.png" />
 </p>
